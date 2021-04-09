@@ -10,6 +10,7 @@ public class DevopsApplication {
 		SpringApplication.run(DevopsApplication.class, args);
 		//added conflict comment
 		//added comment
+		//added force push comment
 	}
 
 }
